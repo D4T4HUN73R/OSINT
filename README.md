@@ -8,6 +8,25 @@ A collection of interesting OSINT tools for daily use. As always no guarantee of
 - [ ] adding some short comments
 - [ ] verifying the collection and tick this todo :shipit:
 
+# What is OSINT?
+
+- OSINT, or Open Source Intelligence, is the practice of collecting and analyzing publicly available information from a variety of sources to gain insights and knowledge about a particular topic or issue. 
+- This can include online sources such as social media, news articles, and government websites, as well as offline sources such as books, journals, and public records. 
+- OSINT is used by government agencies, private companies, and individuals for a variety of purposes, including threat intelligence, due diligence, and competitive analysis.
+
+# Ten important OSINT techniques
+
+- Search Engine Queries: Using search engines such as Google or Bing to find relevant information.
+- Social Media Monitoring: Monitoring social media platforms such as Twitter, Facebook, and LinkedIn for relevant content.
+- Image and Video Analysis: Analyzing images and videos for information and insights, such as location, time, and content.
+- Website Analysis: Analyzing websites, including their content, structure, and metadata, for information and insights.
+- Public Records Searches: Conducting searches of public records, including court documents, property records, and business filings.
+- Domain Name and IP Address Analysis: Analyzing domain names and IP addresses to determine ownership and location of websites and online activity.
+- Dark Web Monitoring: Monitoring the Dark Web for information related to illegal activities, including cybercrime, terrorism, and drug trafficking.
+- Online Forums and Discussion Boards: Monitoring and participating in online forums and discussion boards to gather information and insights.
+- Mobile Device Tracking: Tracking the location and activity of mobile devices to gather information and insights.
+- Public Data Aggregators: Using public data aggregators, such as Data.gov and the Open Data Network, to collect and analyze publicly available data sets for insights and trends.
+
 # Search Engines
 - [Google Search](https://www.google.com) :point_right: my first choice! GoogleDorking is here your potent friend!
 - [Yandex](https://www.yandex.com) :point_right: Russian search engine & a good image reverse search engine!
