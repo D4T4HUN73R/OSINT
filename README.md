@@ -55,3 +55,5 @@ A collection of interesting OSINT tools for daily use. As always no guarantee of
 
 # Financial Research
 
+## ⚠️ DISCLAIMER ⚠️
+The published scripts, software, and associated URLs or links are intended for educational purposes only. We disclaim any responsibility for the content displayed on external platforms or websites mentioned. Users are prohibited from engaging in any criminal, malicious activities or actions that may cause harm to others or engage in activities with wrongful intent using the provided materials. By accessing and utilizing these materials, you agree to abide by this disclaimer and use the content solely for educational purposes.
